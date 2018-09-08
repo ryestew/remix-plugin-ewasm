@@ -1,0 +1,11 @@
+.vscode
+build
+node_modules
+reports
+npm-debug.log
+package-lock.json
+remix
+.DS_Store
+contracts
+TODO
+.tern-port
